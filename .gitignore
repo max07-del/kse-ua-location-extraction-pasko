@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+data/*
+!data/synthetic_posts.jsonl
+!data/synthetic_posts_2.jsonl
